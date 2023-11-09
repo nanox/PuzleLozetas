@@ -14,7 +14,11 @@ Ejemplos de formato correcto:
 13 10 14 12 		13 14 15 12 		13 14 12 11
 ```
 Para ejecutar el programa con un tablero generado aleatoriamente:
+```
 python3 src/main.py
+```
 
 Para ejecutar el programa con un archivo de entrada:
+```
 python3 src/main.py [folder/archivo.txt]
+```

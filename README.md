@@ -13,3 +13,8 @@ Ejemplos de formato correcto:
 -- 06 15 11 		9  10  7 11 		10  -  7 15
 13 10 14 12 		13 14 15 12 		13 14 12 11
 ```
+Para ejecutar el programa con un tablero generado aleatoriamente:
+python3 src/main.py
+
+Para ejecutar el programa con un archivo de entrada:
+python3 src/main.py [folder/archivo.txt]

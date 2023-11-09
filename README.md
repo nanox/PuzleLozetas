@@ -1,5 +1,5 @@
-# PuzleLozetas
-Algoritmo que resuelve el problema del Puzle de las Lozetas aplicando Ramificación y Poda
+# Puzle de las Lozetas
+Este programa resuelve el problema del Puzle de las Lozetas aplicando el algoritmo de Ramificación y Poda.
 
 El puzle de las losetas o rompecabezas de 15 (también llamado Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Square y muchos otros) es un rompecabezas deslizante que tiene 15 mosaicos cuadrados numerados del 1 al 15 en un marco de 4 mosaicos de alto y 4 mosaicos de ancho, dejando uno desocupado posición de mosaico. Los mosaicos en la misma fila o columna de la posición abierta se pueden mover deslizándolos horizontal o verticalmente, respectivamente. El objetivo del rompecabezas es colocar las fichas en orden numérico
 
